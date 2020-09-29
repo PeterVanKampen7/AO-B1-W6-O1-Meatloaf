@@ -1,0 +1,14 @@
+@font-face
+{
+	font-family: Roboto;
+	src: url(fonts/Roboto-Regular.ttf);
+}
+
+.core
+{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin: 0 auto;
+	max-width: 50%;
+	font-family: Roboto;
+}
