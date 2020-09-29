@@ -9,6 +9,73 @@
 	margin-top: 0px;
 	margin-bottom: 0px;
 	margin: 0 auto;
-	max-width: 50%;
+	max-width: 950px;
 	font-family: Roboto;
+}
+
+h1
+{
+	font-style: 36px;
+	line-height: 36px;
+}
+
+h2
+{
+	font-size: 32px;
+	line-height: 32px;
+	margin-top: 40px;
+}
+
+.firstP
+{
+	font-size: 24px;
+	line-height: 32px;
+}
+
+.normalText
+{
+	font-size: 20px;
+	line-height: 26px;
+}
+
+ul li
+{
+	padding-bottom: 10px;
+}
+
+ol li
+{
+	padding-bottom: 20px;
+}
+
+.tip
+{
+	padding: 25px;
+	margin-top: 40px;
+	background-color: #def6ed;
+	border: solid 4px #def6ed;
+}
+
+.menu
+{
+	list-style-type: none;	
+	overflow: auto;
+	background-color: #def6ed;
+}
+
+.menu li
+{
+	float: left;
+	width: 31%;
+	border-left: solid white 2px;
+	border-right: solid white 2px;
+}
+
+.menu li a
+{
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 16px 16px;
+	text-decoration: none;
 }
